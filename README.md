@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mashaa3er-mosh-htetqesem/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License Abu Sayed's Mashaa3er Mosh Htetqesem](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get License For Mashaa3er Mosh Htetqesem](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
